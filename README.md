@@ -6,7 +6,7 @@ This work was submitted to BMVC 2023 and is now being reviewed.
 
 ## Supplementary Materials
 
-We provide supplementary materials to facilitate a better understanding of our work, including: <br>
+We provide supplementary materials to enhance the understanding and insights into our work, including: <br>
 +  Theoretical Analysis
 +  Benchmarking Datasets
 +  Hyperparameter Analysis and Configuration
