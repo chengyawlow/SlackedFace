@@ -21,6 +21,10 @@ For reproducibility purposes, the distractor sets (with 10K and 20K of LR face i
 
 Other materials will be shared upon acceptance of this paper. 
 
+## Extended Experimental Results 
+
+We will provide additional experimental results for high-resolution/mixed-resolution face recognition. 
+
 ## Acknowledgement
 
 This work was supported by the Institute for Basic Science (IBS-R029-C2) Korea.
