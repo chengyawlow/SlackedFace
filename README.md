@@ -17,7 +17,7 @@ We provide supplementary materials to enhance the understanding and insights int
 
 ## Implementation Materials
 
-For reproducibility purposes, the distractor sets (with 10K and 20K of low-resolution face images) sampled from that of TinyFace are downloaded from the following links:
+For reproducibility purposes, the distractor sets (with 10K and 20K of low-resolution face images) sampled from that of TinyFace are available at:
 +  [TinyFace Distractor Subset - 10K](https://drive.google.com/file/d/1fFBPODGQuGVBzGCLfBu7V123XnQdn0zJ/view?usp=drive_link)
 +  [TinyFace Distractor Subset - 20K](https://drive.google.com/file/d/1pmASrQvTWu7VDoW4VQtbs1T1AG8Apw9F/view?usp=drive_link)
 
