@@ -1,4 +1,4 @@
-## SlakcedFace: Learning a Slacked Margin for Low-Resolution Face Recognition
+## SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition
 <sub>Last Update on July 26, 2023.</sub>
 
 This is the official GitHub repository for "SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition".
