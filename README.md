@@ -2,7 +2,9 @@
 <sub>Last Update on November 20, 2023.</sub>
 
 This is the official GitHub repository for "SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition".
-This work has been accepted for an oral presentation at the BMVC 2023.
+This work has been accepted for an oral presentation at the BMVC 2023. 
+
+We provide the main contents along with our supplementary materials [here](https://drive.google.com/file/d/13ISfGb_NETM3ngT0rukbz7MF_3Dxj-Qu/view?usp=sharing). 
 
 ![Network Architecture for SlackedFace](https://github.com/chengyawlow/SlackedFace/blob/main/data/images/%5B%20SlackedFace%20%5D%20Network%20Construction.PNG)
 
@@ -31,8 +33,6 @@ For reproducibility purposes, the distractor sets (with 10K and 20K of low-resol
 +  [TinyFace Distractor Subset - 20K](https://drive.google.com/file/d/1pmASrQvTWu7VDoW4VQtbs1T1AG8Apw9F/view?usp=drive_link)
 
 The complete distractor set (with 153,428 low-resolution face images) is available at the [TinyFace Official Portal](https://qmul-tinyface.github.io/). 
-
-Other materials will be shared upon acceptance of this paper. 
 
 
 ## Extended Experimental Results 
