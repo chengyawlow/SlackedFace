@@ -1,5 +1,5 @@
 ## SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition
-<sub>Last Update on July 26, 2023.</sub>
+<sub>Last Update on November 20, 2023.</sub>
 
 This is the official GitHub repository for "SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition".
 This work has been accepted for an oral presentation at the BMVC 2023.
