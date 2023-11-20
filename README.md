@@ -6,8 +6,13 @@ This work has been accepted for an oral presentation at the BMVC 2023.
 
 ![Network Architecture for SlackedFace](https://github.com/chengyawlow/SlackedFace/blob/main/data/images/%5B%20SlackedFace%20%5D%20Network%20Construction.PNG)
 
+
 ## YouTube Video Presentation 
+
+This YouTube video was prepared in conjunction with the BMVC camera-ready submission.
+
 [![Video Title](https://img.youtube.com/vi/zMes7Kpo86c/0.jpg)](https://www.youtube.com/watch?v=zMes7Kpo86c)
+
 
 ## Supplementary Materials
 
@@ -17,6 +22,7 @@ We provide supplementary materials to enhance the understanding and insights int
 +  Hyperparameter Analysis and Configuration
 +  Stability Analysis
 +  Model Extension
+
 
 ## Implementation Materials
 
@@ -28,9 +34,11 @@ The complete distractor set (with 153,428 low-resolution face images) is availab
 
 Other materials will be shared upon acceptance of this paper. 
 
+
 ## Extended Experimental Results 
 
 We will provide additional experimental results for high-resolution/mixed-resolution face recognition. 
+
 
 ## Acknowledgement
 
