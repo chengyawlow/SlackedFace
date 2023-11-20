@@ -35,9 +35,9 @@ For reproducibility purposes, the distractor sets (with 10K and 20K of low-resol
 The complete distractor set (with 153,428 low-resolution face images) is available at the [TinyFace Official Portal](https://qmul-tinyface.github.io/). 
 
 
-## Extended Experimental Results 
+## Pre-Trained Models and Extended Experimental Results 
 
-We will provide additional experimental results for high-resolution/mixed-resolution face recognition. 
+We will provide additional materials, including pre-trained models and our extended experimental results for high-resolution/mixed-resolution face recognition in future. 
 
 
 ## Acknowledgement
