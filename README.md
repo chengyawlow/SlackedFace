@@ -6,6 +6,8 @@ This work has been accepted for an oral presentation at the BMVC 2023.
 
 ![Network Architecture for SlackedFace](https://github.com/chengyawlow/SlackedFace/blob/main/data/images/%5B%20SlackedFace%20%5D%20Network%20Construction.PNG)
 
+<img src="[image_filename_or_URL](https://github.com/chengyawlow/SlackedFace/blob/main/data/images/%5B%20SlackedFace%20%5D%20Network%20Construction.PNG)" alt="Alt Text" width="400">
+
 We provide the main contents along with our supplementary materials [here](https://drive.google.com/file/d/13ISfGb_NETM3ngT0rukbz7MF_3Dxj-Qu/view?usp=sharing). 
 
 ## YouTube Video Presentation 
