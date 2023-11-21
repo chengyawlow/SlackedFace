@@ -13,7 +13,7 @@ We provide the main contents along with our supplementary materials [here](https
 This YouTube video was prepared in conjunction with the BMVC camera-ready submission.
 
 [![Video Title](https://img.youtube.com/vi/zMes7Kpo86c/0.jpg)](https://www.youtube.com/watch?v=zMes7Kpo86c)
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zMes7Kpo86c" frameborder="0" allowfullscreen></iframe>
 
 ## Supplementary Materials
 
