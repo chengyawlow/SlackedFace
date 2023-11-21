@@ -4,13 +4,10 @@
 This is the official GitHub repository for "SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition".
 This work has been accepted for an oral presentation at the BMVC 2023. 
 
-We provide the main contents along with our supplementary materials [here](https://drive.google.com/file/d/13ISfGb_NETM3ngT0rukbz7MF_3Dxj-Qu/view?usp=sharing). 
-
 <!-- ![Network Architecture for SlackedFace](https://github.com/chengyawlow/SlackedFace/blob/main/data/images/%5B%20SlackedFace%20%5D%20Network%20Construction.PNG) -->
-<div style="width: 100%; max-width: 100%;">
-  <img src="https://github.com/chengyawlow/SlackedFace/blob/main/data/images/%5B%20SlackedFace%20%5D%20Network%20Construction.PNG" alt="Alt Text" style="width: 100%; height: auto;">
-</div>
+<img src="https://github.com/chengyawlow/SlackedFace/blob/main/data/images/%5B%20SlackedFace%20%5D%20Network%20Construction.PNG" alt="Alt Text" width="200">
 
+We provide the main contents along with our supplementary materials [here](https://drive.google.com/file/d/13ISfGb_NETM3ngT0rukbz7MF_3Dxj-Qu/view?usp=sharing). 
 
 ## YouTube Video Presentation 
 
