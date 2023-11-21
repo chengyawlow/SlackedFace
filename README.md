@@ -9,8 +9,6 @@ This work has been accepted for an oral presentation at the BMVC 2023.
 
 We provide the main contents along with our supplementary materials [here](https://drive.google.com/file/d/13ISfGb_NETM3ngT0rukbz7MF_3Dxj-Qu/view?usp=sharing). 
 
-Citation: C. Y. Low, J. C. L. Chai, J. Park, K. An, M. Cha, "SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition," Paper Presented at the BMVC 2023: British Machine Vision Conference, Aberdeen, UK Nov. 2023.
-
 ## YouTube Video Presentation 
 
 This YouTube video was prepared in conjunction with the BMVC camera-ready submission.
@@ -38,8 +36,10 @@ The complete distractor set (with 153,428 low-resolution face images) is availab
 
 ## Pre-Trained Models and Extended Experimental Results 
 
-We will provide additional materials, including pre-trained models and our extended experimental results for high-resolution/mixed-resolution face recognition in future. 
+We will provide additional materials, including pre-trained models and our extended experimental results for high-resolution/mixed-resolution face recognition in the future. <br>
 
+## Citation
+C. Y. Low, J. C. L. Chai, J. Park, K. An, M. Cha, "SlackedFace: Learning a Slacked Margin for Low-Resolution Face Recognition," Paper Presented at the BMVC 2023: British Machine Vision Conference, Aberdeen, UK Nov. 2023.
 
 ## Acknowledgement
 
